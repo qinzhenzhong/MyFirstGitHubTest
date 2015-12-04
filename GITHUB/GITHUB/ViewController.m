@@ -17,6 +17,13 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    
+    //今天天气晴
+//    风力：九级
+//    适合外出
+//    不适合睡觉
+//    
 }
 
 - (void)didReceiveMemoryWarning {
